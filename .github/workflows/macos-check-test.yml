@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "2026_macos_v1_4.sh"
+      - "2026_macos_v1_5.sh"
       - ".github/workflows/macos-check-test.yml"
 
 jobs:
